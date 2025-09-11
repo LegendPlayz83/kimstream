@@ -19,4 +19,4 @@
 - **PCB:** $15.12  
 - **Case:** $5.00  
 
-** Grand Total: $38.30**
+**Grand Total: $38.30**
