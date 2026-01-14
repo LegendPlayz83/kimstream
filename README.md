@@ -1,5 +1,5 @@
 # kimstream
-This is my Macropad design, which I made from scratch
+This is my Macropad design, which I made from scratch. It has an open top to show to cool pcb designs
 <img width="976" height="626" alt="Screenshot 2025-09-11 at 1 27 24 PM" src="https://github.com/user-attachments/assets/2322d4ce-d223-449b-a135-99e0b727260d" />
 
 # Specifications
